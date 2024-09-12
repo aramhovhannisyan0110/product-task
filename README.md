@@ -2,6 +2,12 @@
 
 ## Project setup
 ```
+git fetch
+```
+```
+git checkout test-task-frontend
+```
+```
 yarn install
 ```
 
@@ -9,6 +15,9 @@ yarn install
 ```
 yarn serve
 ```
+
+[Open the Link](http://localhost:8080/)
+#### http://localhost:8080/
 
 ### Compiles and minifies for production
 ```
